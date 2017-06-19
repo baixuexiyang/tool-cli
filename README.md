@@ -1,15 +1,15 @@
-# tools-cli
+# tool-cli
 init project
 
 # Installation
 ```
-npm install tools-cli -g
+npm install tool-cli -g
 ```
 or
 ```
-git clone https://github.com/baixuexiyang/tools-cli.git
+git clone https://github.com/baixuexiyang/tool-cli.git
 
-cd tools-cli && npm install
+cd tool-cli && npm install
 
 npm link
 ```
